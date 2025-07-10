@@ -27,7 +27,7 @@ No fluff. No bloat. Just smart, instant text transformation.
 ### 1. Clone the repo
 
 bash
-git clone https://github.com/YOUR-USERNAME/draftpal.git
+git clone https://github.com/poowa-gg/draftpal
 cd draftpal
 
 
@@ -108,11 +108,11 @@ Great for students, professionals, or creatives — it’s open, local, and ligh
 
 ## ✅ Built for Notamedia MVP Hackathon 2025
 
-* 👨‍💻 Solo Developer: **David Oyetunde**
+* 👨‍💻 Solo Developer: **Daniel Oyetunde**
 * 🛠️ Stack: Node.js, Express, React, Vite, Groq
 * ⚡ Model: `llama3-70b-8192`
-* 🔗 \[Add your GitHub repo link here]
-* 🎥 \[Add your demo video link here]
+* 🔗 https://github.com/poowa-gg/draftpal
+* 🎥 https://youtu.be/oC7Y5UFDTW0
 
 
 
